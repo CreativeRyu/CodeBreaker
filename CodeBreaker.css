@@ -1,0 +1,38 @@
+.gameWindow {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace, courier;
+    color: rgb(217, 248, 245);
+    text-shadow: 4px 4px 4px rgb(32, 167, 167);
+    background: rgb(42, 56, 68);
+    border-radius: 20px;
+    width: 450px;
+    height: 250px;
+    border: 15px solid #48ffff;
+    margin: 30px auto;
+    text-align: center;
+    box-shadow: inset -1px 2px 10px 5px #4fb4b4;
+}
+
+
+/* zum zentrieren eines divs -> Eingabefeld für Ergebnisse */
+
+.center {
+    margin: 0px auto;
+    text-align: center;
+}
+
+.inputWindow {
+    font-size: 100px;
+    font-weight: bold;
+    font-family: monospace, courier;
+    background: rgb(42, 56, 68);
+    height: 120px;
+    width: 400px;
+    padding: 20px;
+    box-shadow: 15px 15px 15px rgb(27, 135, 161);
+    color: rgb(217, 248, 245);
+    text-shadow: 2px 2px 2px rgb(32, 167, 167);
+    border-radius: 5px;
+    border: 3px solid #48ffff;
+}
